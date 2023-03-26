@@ -143,14 +143,13 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content: end;
-    border: 2px solid blue;
+    
     max-width: 800px;
  
 }
 
 .quote_text{
     max-width: 800px;
-    border: 2px solid;
     font-size: 36px;
     font-style: italic;
     font-weight: lighter;
@@ -160,7 +159,5 @@ body{
 .name{
     font-weight: bold;
     font-size: 20px;
-    border: 2px solid; 
     align-self: flex-end;
-
 }
